@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[matias]]></title>
         <description><![CDATA[matias]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matias/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 17:31:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 17:34:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matias/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.thisiscolossal.com/wp-content/uploads/2015/03/florian-1.gif">]]></description>
+            <link>https://thegrid.ai/matias/123023d8-08f5-47c5-8170-7779517afc37/index.html</link>
+            <guid isPermaLink="false">123023d8-08f5-47c5-8170-7779517afc37</guid>
+            <pubDate>Wed, 17 Feb 2016 17:34:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I have three different remotes I use regularly with my TV set-up: one Set-top box remote, one Smart TV remote and finally my Apple TV remote. 
@@ -42,7 +49,7 @@ The rest of the buttons are unneccessary and can be replaced with clever UI and 
 
 
 Look at your TV remote. How many buttons does it have? </p>]]></description>
-            <link>undefinedfedb3cac-dd02-4515-80c5-ee5ec3f91543/index.html</link>
+            <link>https://thegrid.ai/matias/fedb3cac-dd02-4515-80c5-ee5ec3f91543/index.html</link>
             <guid isPermaLink="false">fedb3cac-dd02-4515-80c5-ee5ec3f91543</guid>
             <pubDate>Wed, 17 Feb 2016 17:31:05 GMT</pubDate>
         </item>
