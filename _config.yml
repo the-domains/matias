@@ -1,0 +1,28 @@
+name: matias
+favicon: null
+layout_spectrum: 0.3700998965650797
+typography_spectrum: 0.7754353859927505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.37372496630996466
+  lightness: 0.1700044667813927
+  saturation: 0.48075328883714974
+  rhythmicContrast: 0.6716924549546093
+purpose: []
